@@ -1,14 +1,14 @@
 # Juan Manuel Jiménez Olmedo | Data Analyst
 
-## About Me
+## 1. About Me
 **Data Analyst** student combining **Marketing expertise** with **technical skills** to deliver data-driven business insights. Currently pursuing **DAM** (Multiplatform Application Development) with strong foundation in **Marketing Research** and **Digital Marketing**.
 
-## Education
+## 2. Education
 - **DAM** - Multiplatform Application Development (2nd year)
 - **Master's Degree** - Digital Marketing
 - **Bachelor's Degree** - Marketing & Market Research
 
-## Core Competencies
+## 3. Core Competencies
 
 **Data Analysis & Visualization:**
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -34,7 +34,7 @@
 - Git & GitHub
 - Java
 
-## Featured Projects
+## 4. Featured Projects
 
 ### Retail Profitability Analysis](link-al-repo)
 **Business optimization project:** Product portfolio analysis using ABC classification methodology
@@ -42,13 +42,13 @@
 - **Business Impact:** Identified optimization opportunities reducing catalog 30% with <2% revenue impact
 - **Key Skills:** Data cleaning, statistical analysis, business recommendations, executive reporting
 
-## What I Bring
+## 5. What I Bring
 1) **Business mindset** from Marketing background  
 2) **Technical skills** from DAM program  
 3) **Analytical thinking** applied to real business problems  
 4) **Communication skills** - translating data into actionable insights  
 
-## Contact
+## 6. Contact
 - **Email:** [juanmajimenezolmedo@gmail.com](mailto:juanmajimenezolmedo@gmail.com)
 - **LinkedIn:** [juanma-jimenez-olmedo](https://www.linkedin.com/in/juanma-jimenez-olmedo)
 - **Ubicación:** Málaga, Andalucía, España
